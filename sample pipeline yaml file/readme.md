@@ -55,4 +55,5 @@ steps:
     csmFile: 'gjs-test0221.bicep'
     overrideParameters: '-workspaceName gjs-sentinel-workspace1'
     deploymentMode: 'Incremental'    
-    ```
+    
+ ```
