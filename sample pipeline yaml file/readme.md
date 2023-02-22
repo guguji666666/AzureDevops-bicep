@@ -20,8 +20,8 @@ steps:
 - task: AzureResourceManagerTemplateDeployment@3
   inputs:
     deploymentScope: 'Resource Group'
-    azureResourceManagerConnection: 'Visual Studio Enterprise Subscription(74a72629-ac6d-44db-a66a-abcabcacbaac)'
-    subscriptionId: '74a72629-ac6d-44db-a66a-abcabcacbaac'
+    azureResourceManagerConnection: 'Visual Studio Enterprise Subscription(74a78629-ac6d-55db-a77a-abcabcacbaac)'
+    subscriptionId: '74a78629-ac6d-55db-a77a-abcabcacbaac'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'GJS-MS150-MDFC2'
     location: 'East Asia'
@@ -32,8 +32,8 @@ steps:
 - task: AzureResourceManagerTemplateDeployment@3
   inputs:
     deploymentScope: 'Resource Group'
-    azureResourceManagerConnection: 'Visual Studio Enterprise Subscription(74a72629-ac6d-44db-a66a-abcabcacbaac)'
-    subscriptionId: '74a72629-ac6d-44db-a66a-abcabcacbaac'
+    azureResourceManagerConnection: 'Visual Studio Enterprise Subscription(74a78629-ac6d-55db-a77a-abcabcacbaac)'
+    subscriptionId: '74a78629-ac6d-55db-a77a-abcabcacbaac'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'gjs-sentinel'
     location: 'East Asia'
@@ -46,8 +46,8 @@ steps:
 - task: AzureResourceManagerTemplateDeployment@3
   inputs:
     deploymentScope: 'Resource Group'
-    azureResourceManagerConnection: 'Visual Studio Enterprise Subscription(74a72629-ac6d-44db-a66a-abcabcacbaac)'
-    subscriptionId: '74a72629-ac6d-44db-a66a-abcabcacbaac'
+    azureResourceManagerConnection: 'Visual Studio Enterprise Subscription(74a78629-ac6d-55db-a77a-abcabcacbaac)'
+    subscriptionId: '74a78629-ac6d-55db-a77a-abcabcacbaac'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'gjs-sentinel'
     location: 'East Asia'
