@@ -3,7 +3,8 @@
 ### 1. Create a new project
 ### 2. Initialize the repos
 ### 3. Upload a bicep template and fill it with the content we got from existing azure resources
-![image](https://user-images.githubusercontent.com/96930989/220489318-6029b6f7-63af-4302-9238-9dc1e4234610.png)
+![image](https://user-images.githubusercontent.com/96930989/220489482-dda3f746-2dc6-40db-923f-64314c86d16e.png)
+
 ### 4. Create a new pipeline
 ![image](https://user-images.githubusercontent.com/96930989/220489003-c46fb424-ab0f-4a9f-8747-5f696cfde433.png)
 ![image](https://user-images.githubusercontent.com/96930989/220489009-693d60ea-7f0b-44fa-a047-b7c0067c73b8.png)
